@@ -1,7 +1,7 @@
-# Inertia Utility Mod
+# Cheatin Network 2.0
 
-## Download
-You can download Inertia from [here](https://inertiaclient.com/)
+## Shop
+You can play buy ranks from [here](http://store.cheatin.net)
 
 ## Report Bugs
 You can report bugs you find while using Inertia Utility Mod here. [here](https://github.com/THEREALWWEFAN231/Inertia/issues)
